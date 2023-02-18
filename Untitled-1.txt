@@ -1,0 +1,24 @@
+<DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatibl"content="IE=edge">
+    <meta name="viewpor" content="width=device-width, initial-scale=1.0">
+    <tittle>Document</tittle>
+</head>
+
+<body>
+    <p> mark myer</p>
+    <P>That's my name.</P>
+
+    <hr>
+
+    <b>salman </b>
+    <br>
+    <i>labeeq </i>
+    <u>usman </u>
+
+</body>
+
+</html>
